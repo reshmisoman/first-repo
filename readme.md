@@ -1,7 +1,7 @@
 # Example Repo Title
-Hello world!!!! 
+This is my first change Hello world!!!! 
 
-Second change!
+This is my Second change!
 
 # New version of this course (2020)
 ### gitforeverybody.com
